@@ -16,9 +16,3 @@ app.run(
     port=int(os.getenv('PORT', 8080)),
     debug=True
 )
-
-#The /index url has the 'This is an index page'
-#number 2 done
-# /hello has "Hello world"
-#
-
